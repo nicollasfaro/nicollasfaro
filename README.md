@@ -1,7 +1,7 @@
-👋 Olá, me chamo Nicollas Faro. Sou Desenvolvedor FrontEnd, atuando 5 anos no mercado BPO como Analista de Conteúdo para sistemas de intranet e 3 anos como Desenvolvedor de Sistemas. Vasta experiência em HTML, CSS, Javascript, Bootstrap e criação de conteúdos digitais.
-- 📫 Como me contatar...
+👋 Hi, my name is Nicollas Faro. I'm a FrontEnd Developer, working 5 years in the BPO market as a Content Analyst for intranet systems and 3 years as a Systems Developer. Extensive experience in HTML, CSS, Javascript, Bootstrap and digital content creation.
+- 📫 how to contact me...
 
-Link do meu LinkedIn: https://www.linkedin.com/in/nicollasciuldin/
+LinkedIn: https://www.linkedin.com/in/nicollasciuldin/
 
 <!---
 nicollasfaro/nicollasfaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
